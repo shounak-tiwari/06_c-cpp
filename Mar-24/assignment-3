@@ -1,0 +1,120 @@
+
+### **Basic If Statement (Normal) - 25 Questions**
+1. Check if a number is positive.
+2. Check if a number is negative.
+3. Check if a number is zero.
+4. Check if a number is even.
+5. Check if a number is odd.
+6. Check if a number is divisible by 5.
+7. Check if a number is divisible by 3 and 7.
+8. Check if a character is a vowel (`a, e, i, o, u`).
+9. Check if a given year is a leap year.
+10. Check if a person is eligible to vote (age ≥ 18).
+11. Check if a number is a multiple of 10.
+12. Check if a number is greater than 100.
+13. Check if a character is uppercase.
+14. Check if a character is lowercase.
+15. Check if a number is a three-digit number.
+16. Check if a string starts with 'A'.
+17. Check if a number is in the range of 1 to 50.
+18. Check if the sum of two numbers is greater than 100.
+19. Check if the first digit of a number is 5.
+20. Check if a password length is at least 8 characters.
+21. Check if a number is a prime number (basic check).
+22. Check if a given word contains the letter 'z'.
+23. Check if a triangle is valid based on its three sides.
+24. Check if a number is a palindrome.
+25. Check if a string is a palindrome.
+
+---
+
+### **Bitwise If Statement - 25 Questions**
+26. Check if a number is even using bitwise AND (`n & 1`).
+27. Check if a number is odd using bitwise AND (`n & 1`).
+28. Check if the `n`th bit of a number is set.
+29. Check if a number is a power of 2.
+30. Check if two numbers have the same parity (both even or both odd) using bitwise AND.
+31. Check if a number is a power of 4.
+32. Check if the last bit of a number is 1.
+33. Check if a number has only one set bit.
+34. Check if a number is a multiple of 8 using bitwise AND.
+35. Check if a number has an alternating bit pattern.
+36. Check if swapping two numbers using XOR gives the correct result.
+37. Check if the sum of two numbers is even using bitwise AND.
+38. Check if a number is a multiple of 16 using bitwise AND.
+39. Check if flipping all bits of a number results in a negative number.
+40. Check if `a ^ b ^ c = 0` (XOR property).
+41. Check if a number is negative using bitwise operation (`n >> 31`).
+42. Check if all bits of a number are 1 (`n & (n + 1) == 0`).
+43. Check if reversing bits of a number gives a palindrome.
+44. Check if a number is odd without using `%` or `/` (use `n & 1`).
+45. Check if a number is positive using bitwise (`n >> 31`).
+46. Check if a number is a multiple of 2 without using `%`.
+47. Check if a number contains an even number of bits set.
+48. Check if a number contains an odd number of bits set.
+49. Check if the sum of all set bits in a number is even.
+50. Check if a number has an equal number of 0s and 1s in its binary representation.
+
+if else 
+
+*Normal Conditional Statements*
+1. Write a program to check if a number is positive or negative.
+2. Find the largest of three numbers using if-else statements.
+3. Check if a character is a vowel or consonant.
+4. Determine if a number is even or odd.
+5. Find the smallest of four numbers.
+
+6. Write a program to check if a person is eligible to vote.
+7. Calculate the grade of a student based on their marks.
+8. Check if a year is a leap year.
+9. Find the maximum of two numbers.
+10. Determine if a number is a perfect square.
+
+11. Write a program to check if a triangle is valid.
+12. Find the minimum of three numbers.
+13. Check if a string is a palindrome.
+14. Determine if a number is a prime number.
+15. Calculate the area of a rectangle.
+
+16. Write a program to check if a person is eligible for a loan.
+17. Find the maximum of three numbers.
+18. Check if a number is a perfect cube.
+19. Determine if a string contains a substring.
+20. Calculate the volume of a cube.
+
+21. Write a program to check if a number is a Harshad number.
+22. Find the minimum of four numbers.
+23. Check if a string is a subsequence of another string.
+24. Determine if a number is a palindrome.
+25. Calculate the area of a circle.
+
+*Bitwise Conditional Statements*
+26. Write a program to check if a number is a power of 2 using bitwise operators.
+27. Find the number of set bits in a given integer.
+28. Check if a number is even or odd using bitwise operators.
+29. Determine if a number is a multiple of 4 using bitwise operators.
+30. Calculate the number of trailing zeros in a given integer.
+
+31. Write a program to swap two numbers using bitwise operators.
+32. Find the first set bit in a given integer.
+33. Check if a number is a palindrome using bitwise operators.
+34. Determine if a number is a perfect square using bitwise operators.
+35. Calculate the number of leading zeros in a given integer.
+
+36. Write a program to check if a number is a power of 4 using bitwise operators.
+37. Find the number of set bits in a given integer using bitwise operators.
+38. Check if a number is a multiple of 8 using bitwise operators.
+39. Determine if a number is a perfect cube using bitwise operators.
+40. Calculate the number of trailing ones in a given integer.
+
+41. Write a program to swap two numbers without using a temporary variable using bitwise operators.
+42. Find the first unset bit in a given integer.
+43. Check if a number is a palindrome using bitwise operators.
+44. Determine if a number is a perfect square using bitwise operators.
+45. Calculate the number of leading ones in a given integer.
+
+46. Write a program to check if a number is a power of 16 using bitwise operators.
+47. Find the number of set bits in a given integer using bitwise operators.
+48. Check if a number is a multiple of 32 using bitwise operators.
+49. Determine if a number is a perfect cube using bitwise operators.
+50. Calculate the number of trailing zeros in a given integer.
