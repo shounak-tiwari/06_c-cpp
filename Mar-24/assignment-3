@@ -15,16 +15,16 @@
 13. Check if a character is uppercase.
 14. Check if a character is lowercase.
 15. Check if a number is a three-digit number.
-16. Check if a string starts with 'A'.
+16. Check if a string starts with 'A'.  (not neccessary)
 17. Check if a number is in the range of 1 to 50.
 18. Check if the sum of two numbers is greater than 100.
 19. Check if the first digit of a number is 5.
-20. Check if a password length is at least 8 characters.
+20. Check if a password length is at least 8 characters. 
 21. Check if a number is a prime number (basic check).
-22. Check if a given word contains the letter 'z'.
+22. Check if a given word contains the letter 'z'. (not neccessary)
 23. Check if a triangle is valid based on its three sides.
 24. Check if a number is a palindrome.
-25. Check if a string is a palindrome.
+25. Check if a string is a palindrome. (not neccessary)
 
 ---
 
