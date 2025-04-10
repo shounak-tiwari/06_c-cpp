@@ -1,0 +1,41 @@
+what is function ?
+A function is a self contained block of code that performs a specific task. it can take inputs (parameters), process them and optionally return a value. 
+
+why we use function ?
+1. code reusability of code : write once use multiple times for multiple different input
+2. modularity : break complex problems into smaller pieces 
+3. abstraction : hide implementation details 
+4. maintainability :smart maintaince
+
+functions: 
+1. user define  : 
+2. built in function : printf(),scasnf()
+
+how we create function in c:
+
+return_type function_name() {
+	function body
+	statement 
+	return expression // optional
+}
+
+1. take return type 
+2. give name of function using identifiers 
+3. use parameter if you want (optional)
+4. return expression if you want 
+
+how we use function in c :
+
+function declaration (prototype of function)
+	- return name parameter &types 
+	-ends with a semicolon 
+	- Typically placed in header files or before main()
+
+function defination 
+	- actual implementation of the function 
+	- includes the function 
+	- must match the declaration 
+	
+
+calling fnuction 
+to use a function you call it by its name 
