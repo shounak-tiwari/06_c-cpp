@@ -1,0 +1,20 @@
+Types of pointer : 
+a. null pointer : which have null values means a pointer that doesnt point to any valid memory location
+
+b. wild pointer : pointer that hasn't been initialized it points to a random memory locations;
+
+c.void pointer  : void pointer is point to any data types .
+
+d. dangling pointer : pointer to a memory lcation that has been freed or deallocated 
+
+e. function pointer : pointer to point a function instead of a variable 
+
+f. Pointer to pointer (double pointer ) : pointer that points to another pointer .
+
+g. constant pointer  cannot change thier address it is holding 
+
+h. pointer to constant a pointer to value that an not be chaned throught the pointer 
+
+9. constant pointer to constant : both the pointer and the value it pointes to can not be changed 
+
+

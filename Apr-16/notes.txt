@@ -1,0 +1,20 @@
+Arrays :  when we to store multiple similar type of items inside an single variable 
+Arrays :
+1. It is fast comparion to other data structures (like list ,tree,graph)
+arrays is a linear type data structures which is derived also .. 
+
+type of arrays : 
+1. 1-d arrays
+2. 2-d arrays
+
+Sorting techque in arrays :
+1. selection sort 
+2. bubble sort 
+3. insertion sort
+4. quick sort 
+5. merge sort 
+
+Searching in arrays : 
+1. binary search in arrays 
+2. linear search in arrays 
+

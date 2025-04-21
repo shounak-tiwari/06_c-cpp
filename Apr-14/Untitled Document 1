@@ -1,0 +1,25 @@
+what are pointers ? 
+pointers perform the function of storing the addresses of other variables could be int ,char,function,arrays
+in c programming pointers are also called reference variable because its responsible for storing address of other variables pointer can store address of same type variable means int pointer only hold the address of int variable 
+but the size of pointer is depend upon architecture if 32-bit architecture are thier the pointer size is 2 bytes.
+
+basic syntax of pointer 
+
+int x =10;
+int *p =&x;
+
+
+
+use of pointer in c 
+
+* is a pointer operators 
+
+operators	|	name	|uses and meaning operators
+
+	*			|ASTERISK | declares a pointer in a program
+								Returns the referenced variable's value
+								
+
+
+
+		
